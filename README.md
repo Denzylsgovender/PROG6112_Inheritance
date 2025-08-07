@@ -79,6 +79,6 @@ In this method:
 
 ## 📘 Example Output
 
--Enter withdrawal amount: 5000
--Enter minimum balance required: 8500
--Transaction declined: Minimum balance requirement not met.
+- Enter withdrawal amount: 5000
+- Enter minimum balance required: 8500
+- Transaction declined: Minimum balance requirement not met.
